@@ -8,5 +8,6 @@
 <body>
     <h1> Ana Júlia e Bruna Cordeiro </h1>
     <img src="\ProvaGitBJ\imagens\pizza.jpg">
+    <a href="cadastros.php"><button>Abrir Cadastros</button></a>
 </body>
 </html>
